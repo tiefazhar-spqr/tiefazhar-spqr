@@ -15,12 +15,23 @@ Currently, I’m learning **HTML** and **CSS**, and I’m excited to grow into f
 ---
 
 ### 📫 How to reach me
-- Instagram: ### 📫 How to reach me
+- Instagram: 📫 How to reach me:
 <a href="https://instagram.com/azharmuhammadlatief" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%40azharmuhammadlatief-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a> 📷
-- Youtube: (https://www.youtube.com/@azharmuhammad48). 🎦
-- LinkedIn: (https://www.linkedin.com/in/muhammad-latief-azhar-69358a7b/). 👨‍💻
+</a>
+<br>
+- Youtube: 📫 You can watch my channel
+<br>
+<a href="https://youtube.com/@azharmuhammad48" target="_blank">
+   <img src="https://img.shields.io/badge/Youtube-%40azharmuhammad48-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</a>
+<br>
+  LinkedIn: 📫 You can connect with me
+<br>
+<a href="https://linkedin.com/in/muhammad-latief-azhar-69358a7b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%40muhammad-latief-azhar-69358a7b-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+  
 
 ---
 
