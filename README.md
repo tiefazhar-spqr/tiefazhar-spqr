@@ -26,10 +26,10 @@ Currently, I’m learning **HTML** and **CSS**, and I’m excited to grow into f
    <img src="https://img.shields.io/badge/Youtube-%40azharmuhammad48-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
 <br>
-  LinkedIn: 📫 You can connect with me
+- LinkedIn: 📫 You can connect with me
 <br>
 <a href="https://linkedin.com/in/muhammad-latief-azhar-69358a7b" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%40muhammad-latief-azhar-69358a7b-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
   
 
